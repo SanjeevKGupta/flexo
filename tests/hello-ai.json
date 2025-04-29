@@ -1,0 +1,17 @@
+{
+          "messages": [
+            {
+              "role": "user",
+              "content": [
+                { "text": "Hello, AI!" }
+              ]
+            }
+          ],
+          "context": {
+            "values": [
+              { "key": "session_id", "value": "abc123" }
+            ]
+          },
+          "include_status_updates": false,
+          "stream": true
+}
